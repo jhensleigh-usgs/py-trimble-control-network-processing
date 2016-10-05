@@ -89,7 +89,7 @@ ENV/
 # Rope project settings
 .ropeproject
 
-#visual studio
+# visual studio
 .pyroj
 .pyproj.user
 
