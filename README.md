@@ -17,7 +17,8 @@ points having three dimensional positions.
 
 The established control on the rim transfers to river corridor control points through simultaneous GPS
 occupatoins. Subsequently, positional accuracy from river corridor control points is transfered to all
-mapping along the river corridor through conventional techniques [Brown, K.M., Gonzales, M., & Kohl, K. 2003](http://www.gcmrc.gov/library/posters_delme/Q12003/controlposter.pdf).
+mapping along the river corridor through conventional 
+techniques ([Brown, K.M., Gonzales, M., & Kohl, K. 2003](http://www.gcmrc.gov/library/posters_delme/Q12003/controlposter.pdf)).
 
 
 # Inputs
@@ -41,9 +42,9 @@ mapping along the river corridor through conventional techniques [Brown, K.M., G
 	 - Traverse_Vectors 
 
 # TODO:
-  - [] Parse out Tertiary network into established river mile sections
-  - [] Hard points?
-  - [] Replace access database with Oracle database
+  - [ ] Parse out Tertiary network into established river mile sections
+  - [ ] Hard points?
+  - [ ] Replace access database with Oracle database
 
 # Technical Info
 
