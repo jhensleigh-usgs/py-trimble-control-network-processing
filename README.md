@@ -6,6 +6,18 @@ and the polyline feature classes of the vectors used to collect each control poi
 
 # Background
 
+GCMRC establishes and maintains accurate geographic control in the Grand Canyon that is essential for
+accurate geo-referencing of remotely sensed data and spatial analysis of resource data using modern
+image processing and GIS technologies.
+
+In order to meet GCMRC's positioning needs, the existing control network must be continually enhanced to 
+provide the high accuracy required for use with the GPS and conventional measurements. In association
+with the National Geodetic Survey (NGS), GCMRC has established a GPS control network of monumented
+points having three dimensional positions.
+
+The established control on the rim transfers to river corridor control points through simultaneous GPS
+occupatoins. Subsequently, positional accuracy from river corridor control points is transfered to all
+mapping along the river corridor through conventional techniques [Brown, K.M., Gonzales, M., & Kohl, K. 2003](http://www.gcmrc.gov/library/posters_delme/Q12003/controlposter.pdf).
 
 
 # Inputs
@@ -29,9 +41,9 @@ and the polyline feature classes of the vectors used to collect each control poi
 	 - Traverse_Vectors 
 
 # TODO:
- 
-These tasks still need to get done.
-
+  - [] Parse out Tertiary network into established river mile sections
+  - [] Hard points?
+  - [] Replace access database with Oracle database
 
 # Technical Info
 
